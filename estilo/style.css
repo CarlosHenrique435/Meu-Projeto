@@ -16,3 +16,10 @@ main{
     box-shadow: 3px 3px 5px black;
     padding: 10px;
 }
+h1#gay{
+    color: rgb(250, 14, 53);
+}
+
+h1#machu{
+    color: black;
+}
